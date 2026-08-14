@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.db
+*.sqlite
+*.sqlite3
+*.user
+build/
+cmake-build-*/
+.idea/
+.vscode/
