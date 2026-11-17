@@ -1,6 +1,6 @@
 # Team contributions
 
-This project was developed by a four-person COMP 3004 team at Carleton University. The breakdown below is based on the contribution record included with the team's April 24, 2025 final submission.
+This project was developed by a four-person team for the Object-Oriented Software Engineering class at Carleton University. The breakdown below is based on the contribution record included with the team's April 24, 2025 final submission.
 
 ## Khalifeh Basiri
 

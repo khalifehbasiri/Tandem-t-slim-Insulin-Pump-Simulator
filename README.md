@@ -1,6 +1,6 @@
 # Tandem t:slim X2 Insulin Pump Simulator
 
-> A documentation-only showcase of a four-person COMP 3004 team project at Carleton University. The original course source code remains private.
+> A documentation-only showcase of a four-person team project for the Object-Oriented Software Engineering class at Carleton University. The original course source code remains private.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus)
 ![Qt](https://img.shields.io/badge/Qt-Widgets%20%7C%20Charts%20%7C%20SQL-41CD52?logo=qt&logoColor=white)
@@ -96,7 +96,7 @@ The original application was developed in Qt Creator with Qt Widgets, Qt Charts,
 
 ## Team
 
-Developed by a four-person team for **COMP 3004 - Object-Oriented Software Engineering** at **Carleton University**:
+Developed by a four-person team for **the Object-Oriented Software Engineering** class at **Carleton University**:
 
 - Khalifeh Basiri
 - Julien Larivière-Chartier
